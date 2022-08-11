@@ -1,0 +1,7 @@
+{
+"suggest.autoTrigger": "always",
+"suggest.snippetsSupport": true,
+"suggest.snippetIndicator": "~",
+"markdownlint.config": {"default": true,
+  "line_length": false}
+}
